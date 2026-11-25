@@ -1,0 +1,5 @@
+# Created at 2026-11-24T11:07:56.801
+Boot Manifest-JAR contains absolute paths in classpath 'H:\Timofei\lab-10t-new-master\app\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
